@@ -18,6 +18,14 @@
 
 *Current status: Complete & Working.
 
+
+*IN ORDER TO ACCESS THE PROJECT:
+**DOWNLOAD THE ZIP FILE
+***Run drjava, Compiler MUST BE Java JDK 8.0_101 Compiler then open the project GWAG>GWAG.drjava to compile and run the project.
+****WE INVITE YOU TO BECOME A GWAGER. NOTE: DON'T USE YOUR MOST COMMONLY USED PASSWORD SINCE WE AS GAME OWNERS HAVE ACCESS TO 
+EVERY PASSWORD.
+
+
 *The code consists of a set of Panels for each of the different pages of the game. Functionality of navigation is put
 to the buttons in a main frame, called Launch Frame. This frame is called in the main class of the project
 and then we Run the project. 
@@ -46,8 +54,4 @@ and then we Run the project.
  ---Mustafa Bayraktar:    Together with Naisila, wrote jConnectivity, Login, Signup classes and made necessary log in 
 		          and sign up databases, made the databases local and easily accessible.
 
-*IN ORDER TO ACCESS THE PROJECT:
-*DOWNLOAD THE ZIP FILE
-**Run drjava, Compiler MUST BE Java JDK 8.0_101 Compiler then open the project GWAG>GWAG.drjava to compile and run the project.
-***WE INVITE YOU TO BECOME A GWAGER. NOTE: DON'T USE YOUR MOST COMMONLY USED PASSWORD SINCE WE AS GAME OWNERS HAVE ACCESS TO 
-EVERY PASSWORD.
+
