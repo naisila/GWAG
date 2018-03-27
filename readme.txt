@@ -6,15 +6,7 @@
 *Final Project Code V13.0
 >>>>>>> WE KINDLY INVITE YOU TO BECOME A GWAGER <<<<<<<
 
-*Game Description: "Guess What And GO" is a board game that encourages the user to keep answering questions 
-
- and finish the game first! The board has numbered and grid squares which contain various challenges for 
-
- the player. The squares might have "positive" or "negative" puzzles! If it is positive, the game awards you 
-
- with several steps ahead if you answer correctly, otherwise you stay steady. If it is negative, you stay 
-
- steady if you give the right answer, but if you don't, the game punishes you by regressing some squares back.
+*Game Description: "Guess What And GO" is a board game that encourages the user to keep answering questions and finish the game first! The board has numbered and grid squares which contain various challenges for the player. The squares might have "positive" or "negative" puzzles! If it is positive, the game awards you with several steps ahead if you answer correctly, otherwise you stay steady. If it is negative, you stay steady if you give the right answer, but if you don't, the game punishes you by regressing some squares back.
 
 *Current status: Complete & Working.
 
@@ -34,24 +26,12 @@ and then we Run the project.
 
 *Members and their contribution to this upload:(You can find what each did in the description of each class code)
 
- ---Naisila Puka:         developed the functionality of the game, fixed the layout and the components of the frames 
-			  and panels, connected all the frames with each- other with means of ActionListeners in order
-			  to be able to play the game. Created LaunchFrame, OnePlayerGame and ProgressPanel. Created
-			  jConnectivity class to connect to MySQL database.
-			  Installed PhpMyAdmin and MySQL database on Ubuntu 14.04 server and created the user databases
-			  Worked with MySQL language code.
-			  Among the rest of the classes, created LogIn and SignUp classes by making use of database 
-			  system in MySQL.
+ ---Naisila Puka(LEADER): Developed the functionality of the game, fixed the layout and the components of the frames and panels, connected all the frames with each- other with means of ActionListeners in order to be able to play the game. Created LaunchFrame, OnePlayerGame and ProgressPanel. Created jConnectivity class to connect to MySQL database. Installed PhpMyAdmin and MySQL database on Ubuntu 14.04 server and created the user databases. Worked with MySQL language code. Among the rest of the classes, created LogIn and SignUp classes by making use of database system in MySQL.
 
- ---Ana Peçini:           created Question classes, Question textfile, made possible the access of Questions from the 
-                          textfile, wrote Server and Client classes, GameBoardOnline, SquareOnline, QPanelOnline,
-                          QPanelPicOnline classes, provided locally online connection. (these classes are sepereated from the project                             file 
-                          and are run within the project using CMD)
+ ---Ana Peçini:           created Question classes, Question textfile, made possible the access of Questions from the textfile, wrote Server and Client classes, GameBoardOnline, SquareOnline, QPanelOnline, QPanelPicOnline classes, provided locally online connection. (these classes are sepereated from the project file and are run within the project using CMD)
 
- ---Franc Gripshi:        made almost all the necessary GUI pages, wrote GameBoard, Game NON- GUI classes, made the background 
-                          images.
+ ---Franc Gripshi:        made almost all the necessary GUI pages, wrote GameBoard, Game NON- GUI classes, made the background images.
 
- ---Mustafa Bayraktar:    Together with Naisila, wrote jConnectivity, Login, Signup classes and made necessary log in 
-		          and sign up databases, made the databases local and easily accessible.
+ ---Mustafa Bayraktar:    Together with Naisila, wrote jConnectivity, Login, Signup classes and made necessary log in and sign up databases, made the databases local and easily accessible.
 
 
