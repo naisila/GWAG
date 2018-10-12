@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" main="Try" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/LaunchFrame.java" package="" timestamp="28-Mar-2018 02:27:19">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/BgPanel.java" package="" timestamp="28-Mar-2018 01:03:57">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/Square.java" package="" timestamp="12-May-2017 05:06:24">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/GameBoard.java" package="" timestamp="12-May-2017 05:06:02">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/Player.java" package="" timestamp="12-May-2017 05:06:16">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/ChartPanel.java" package="" timestamp="12-May-2017 05:05:58">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/Game.java" package="" timestamp="12-May-2017 05:06:02">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/LostMessage.java" package="" timestamp="12-May-2017 05:06:12">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/Die.java" package="" timestamp="28-Mar-2018 01:04:19">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/DiePanel.java" package="" timestamp="28-Mar-2018 01:04:29">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/InstructionPanel1.java" package="" timestamp="28-Mar-2018 01:05:30">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/InstructionPanel2.java" package="" timestamp="28-Mar-2018 01:05:39">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/InstructionPanel3.java" package="" timestamp="28-Mar-2018 01:05:45">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/jConnectivity.java" package="" timestamp="28-Mar-2018 01:06:36">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/LoginPanel.java" package="" timestamp="28-Mar-2018 01:07:31">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/MainPanel.java" package="" timestamp="28-Mar-2018 01:07:44">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/MenuPanel.java" package="" timestamp="28-Mar-2018 01:08:12">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/OnePlayer.java" package="" timestamp="28-Mar-2018 01:08:59">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/Pawn.java" package="" timestamp="28-Mar-2018 01:09:10">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/PictureCompletionQuestion.java" package="" timestamp="28-Mar-2018 01:09:19">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="Try.java" package="" timestamp="28-Mar-2018 01:12:05">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/WinnerMessage.java" package="" timestamp="28-Mar-2018 01:12:10">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/WelcomePanel.java" package="" timestamp="28-Mar-2018 01:12:14">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/SignUpPanel.java" package="" timestamp="28-Mar-2018 01:12:25">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/Question.java" package="" timestamp="28-Mar-2018 01:12:29">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/QPanelPic.java" package="" timestamp="28-Mar-2018 01:12:34">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/QPanel.java" package="" timestamp="28-Mar-2018 01:12:38">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+      <file name="src/ProgressPanel.java" package="" timestamp="28-Mar-2018 01:12:41">
+        <select from="6127" to="6127"/>
+        <scroll column="3976" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="src/mysql-connector-java-3.1.14/mysql-connector-java-3.1.14/mysql-connector-java-3.1.14-bin.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
