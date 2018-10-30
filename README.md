@@ -2,7 +2,7 @@
 ## Created by "NAMF" team
 ## V13.0
 ### Team Members
-1. [Naisila Puka](https://github.com/annapecini): Leader
+1. [Naisila Puka](https://github.com/NaisilaPuka): Leader
 2. [Ana Peçini](https://github.com/annapecini)
 3. Mustafa Bayraktar
 4. Franc Gripshi
