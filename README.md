@@ -2,7 +2,7 @@
 ## Created by "NAMF" team
 ## V13.0
 ### Team Members
-1. [Naisila Puka](https://github.com/NaisilaPuka): Leader
+1. [Naisila Puka](https://github.com/naisila): Leader
 2. [Ana Peçini](https://github.com/annapecini)
 3. Mustafa Bayraktar
 4. Franc Gripshi
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=lAGhl3m1_yY
 Complete & Working.
 
 ### Accessing the game:
-1. Clone the repo: `git clone git@github.com:NaisilaPuka/GWAG_V13.0.git`
+1. Clone the repo: `git clone git@github.com:naisila/GWAG_V13.0.git`
 2. Run drjava, Compiler MUST BE Java JDK 8.0_101 Compiler
 3. Open the project `GWAG.drjava`
 4. Compile and run the project.
